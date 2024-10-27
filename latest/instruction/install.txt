@@ -1,0 +1,2 @@
+<put [tmp.txt] to {/plugins}>
+end

@@ -1,0 +1,4 @@
+{plugman unload worldedit}
+delay 1 
+{plugman load worldedit}
+end
