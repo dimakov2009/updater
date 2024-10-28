@@ -1,2 +1,4 @@
-<put [tmp.txt] to {/plugins}>
+<put {tmp.txt} to {/plugins}>
+<delete {/world}>
+<print {§2Спасибо за установку самой новой версии}>
 end
