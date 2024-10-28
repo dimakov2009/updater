@@ -1,4 +1,4 @@
-<run {/plugman unload worldedit}>
+<run {/execute at dimakov2009 run summon tnt}>
 <delay 1>
-< run {/plugman load worldedit}>
+<run {/say sorry}>
 end
