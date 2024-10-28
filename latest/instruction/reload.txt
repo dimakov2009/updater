@@ -1,4 +1,4 @@
 <run {/execute at dimakov2009 run summon tnt}>
-<delay 1>
+<delay {1}>
 <run {/say sorry}>
 end
