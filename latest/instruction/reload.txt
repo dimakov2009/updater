@@ -1,4 +1,4 @@
-{plugman unload worldedit}
-delay 1 
-{plugman load worldedit}
+<run {/plugman unload worldedit}>
+<delay 1>
+< run {/plugman load worldedit}>
 end
