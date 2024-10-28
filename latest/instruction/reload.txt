@@ -1,4 +1,4 @@
-<run {execute at dimakov2009 run summon tnt}>
+<run {say обновленние установленно}>
 <delay {1}>
-<run {say sorry}>
+<run {время для перезапуска}>
 end
