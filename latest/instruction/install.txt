@@ -1,6 +1,6 @@
 <put {AuthMe-5.6.0.jar} to {/plugins}>
 <put {PlugMan.jar} to {/plugins}>
-<delete {/UPDATE}>
 <put {info.txt} to {/}>
 <print {§2Спасибо за установку плагина на авторизацию}>
+<delete {/UPDATE}>
 end
