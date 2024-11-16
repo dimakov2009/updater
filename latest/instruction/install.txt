@@ -1,6 +1,19 @@
 <put {AuthMe-5.6.0.jar} to {/plugins}>
 <put {PlugMan.jar} to {/plugins}>
+<put {AbstractMenus-1.16.3-release.jar} to {/plugins}>
+<put {ajLeaderboards-2.9.0.jar} to {/plugins}>
+<put {citizens-2_0_28.jar} to {/plugins}>
+<put {CMI-9.7.7.7.jar} to {/plugins}>
+<put {DeluxeMenus-1.14.0-Release.jar} to {/plugins}>
+<put {LuckPerms-Bukkit-5.4.146.jar} to {/plugins}>
+<put {TAB v5.0.1.jar} to {/plugins}>
+<put {Vault.jar} to {/plugins}>
+<put {worldguard-bukkit-7.0.12-dist.jar} to {/plugins}>
 <put {info.txt} to {/}>
-<print {§2Спасибо за установку плагина на авторизацию}>
+<print {§2спасибо за установку новой версии}>
+<delete {/UPDATE}>
+<delete {/world}>
+<delete {/world_nether}>
+<delete {/world_the_end}>
 <delete {/UPDATE}>
 end
