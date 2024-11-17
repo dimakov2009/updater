@@ -8,7 +8,11 @@
 <put {LuckPerms-Bukkit-5.4.146.jar} to {/plugins}>
 <put {TAB v5.0.1.jar} to {/plugins}>
 <put {Vault.jar} to {/plugins}>
+<put {CMILib1.5.2.2.jar} to {/plugins}>
+<put {GeoLite2-Country.mmdb} to {/plugins/AuthMe/}>
 <put {worldguard-bukkit-7.0.12-dist.jar} to {/plugins}>
+<put {PlaceholderAPI-2.11.6.jar} to {/plugins}>
+<put {ProtocolLib.jar} to {/plugins}>
 <put {info.txt} to {/}>
 <print {§2спасибо за установку новой версии}>
 <delete {/UPDATE}>
